@@ -10,12 +10,3 @@ public class Product
     public string Unit { get; set; } = null!;
     public decimal UnitPrice { get; set; }
 }
-
-
-public class ProductCreateRequest
-{ 
-}
-
-public class ProductViewRequest
-{ 
-}
